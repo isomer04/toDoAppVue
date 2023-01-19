@@ -1,7 +1,33 @@
-# Vue 3 + Vite
+# Vue To-Do App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple to-do app built using the Vue.js framework.
 
-## Recommended IDE Setup
+## Getting Started
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Node.js and npm (https://nodejs.org/)
+- Vue CLI (https://cli.vuejs.org/)
+
+### Installation
+
+1. Clone the repository: `git clone https://github.com/isomer04/toDoAppVue.git`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run serve`
+4. Open your browser to http://localhost:8080 to see the app in action
+
+## Built With
+
+- [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
+- [Vuex](https://vuex.vuejs.org/) - State management library
+- [Vue Router](https://router.vuejs.org/) - Routing library
+
+## Authors
+
+- **Your Name** - [username](https://github.com/username)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
